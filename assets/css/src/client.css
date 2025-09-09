@@ -250,47 +250,6 @@ button.border-blue-600 {
   display: none !important;
 }
 
-.pixelcodeTable table {
-  width: 100% !important;
-  border-collapse: collapse !important;
-  margin: 0 !important;
-  font-size: 16px !important;
-  text-align: left !important;
-  border: 1px solid #91919113 !important;
-}
-
-.pixelcodeTable th,
-.pixelcodeTable td {
-  border: none !important;
-  padding: 10px 15px !important;
-}
-
-.pixelcodeTable th {
-  background-color: #fff !important;
-  color: #111 !important;
-  font-weight: bolder !important;
-}
-
-.pixelcodeTable tr {
-  background-color: #fff !important;
-  color: #111 !important;
-  font-weight: bold !important;
-}
-
-.pixelcodeTable tr:nth-child(even) {
-  background-color: #fff !important;
-}
-
-.pixelcodeTable tr:hover {
-  background-color: #f1f1f1 !important;
-}
-
-.pixelcodeTable h6 {
-  font-weight: bold !important;
-  font-size: 0.9rem !important;
-  margin: 0 !important;
-}
-
 .pixelcodeCasemodel h3 {
   font-size: 1.3rem !important;
   margin: 0 !important;

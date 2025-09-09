@@ -1,3 +1,7 @@
-./node_modules
-
-./gitignore 
+/node_modules
+/vendor
+.DS_Store
+*.log
+*.sql
+.idea
+.vscode
